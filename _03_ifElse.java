@@ -1,7 +1,7 @@
 public class _03_ifElse {
     public static void main(String[] args) {
         int a , b ;
-        a = 1110 ;
+        a = 110 ;
         b  = 115 ;
         if(a>b){
             System.out.println(" A is greater than  B ");
