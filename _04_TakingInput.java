@@ -56,5 +56,5 @@ public class _04_TakingInput {
         int b = sc.nextInt();
         int sum = a + b ;
         System.out.println("The sum of the both values will be: " + sum);
-    }
+    } 
 }
