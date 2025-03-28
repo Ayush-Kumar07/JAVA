@@ -10,7 +10,7 @@ class Employe {
         System.out.println(name + " " + salary + " " + uid);
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Employe p = new Employe(); 
         Employe p1 = new Employe("prabh", 100000, 13); 
 }
